@@ -1,7 +1,6 @@
 name: Build MT7621-1
 
 on: 
-workflow_dispatch:
   release:
     types: [published]
 #  push:
